@@ -1,4 +1,4 @@
-# Storj mobile client
+# Czarcoin mobile client
 Mobile client for secure file storing.
 All files will be encrypted before sending to distributed network.
 
